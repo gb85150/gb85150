@@ -1,5 +1,8 @@
-👋👋👋
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="geoffrey-bousseau-442839204" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/geoffrey-bousseau-442839204?trk=profile-badge">Geoffrey BOUSSEAU</a>
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFTzZX93NU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
 </div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFTzZX93NU&#x2F;view?utm_content=DAFTzZX93NU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">CV Edit 06&#x2F;01&#x2F;2024</a> par Geoffrey BOUSSEAU
